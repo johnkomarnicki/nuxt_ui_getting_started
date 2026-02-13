@@ -1,2 +1,16 @@
 @import "tailwindcss";
 @import "@nuxt/ui";
+
+@theme static {
+  --color-fruit-salad-50: #f3faf4;
+  --color-fruit-salad-100: #e4f4e6;
+  --color-fruit-salad-200: #c9e9ce;
+  --color-fruit-salad-300: #9fd6a9;
+  --color-fruit-salad-400: #6eba7c;
+  --color-fruit-salad-500: #469755;
+  --color-fruit-salad-600: #388146;
+  --color-fruit-salad-700: #2f6639;
+  --color-fruit-salad-800: #295232;
+  --color-fruit-salad-900: #23442a;
+  --color-fruit-salad-950: #0f2414;
+}
